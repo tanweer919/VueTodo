@@ -1,5 +1,5 @@
-## VueTodo
-###A simple web app using vue.js, vuetify and firebase
+# VueTodo
+### A simple web app using vue.js, vuetify and firebase
 
 ## Project setup
 ```
@@ -16,4 +16,4 @@ yarn run serve
 yarn run build
 ```
 
-###Enter your firebase config in ./src/fb.js
+### Enter your firebase config in ./src/fb.js
